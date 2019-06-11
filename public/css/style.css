@@ -1,0 +1,362 @@
+body {
+    width: 100%;
+    height: 100%;
+    -webkit-font-smoothing: antialiased;
+    padding-top: 150px;
+    position: relative; 
+    
+  }
+  html, body{-webkit-overflow-scrolling: touch;overflow-x: hidden;}
+.navli{
+    list-style: none;
+    display: inline-flex;
+    margin-top: 1rem
+}
+.mr-1{
+    margin-right:1rem
+}
+  .mt-0{
+      margin-top: 0rem
+  }
+  p{
+      text-align: justify;
+      font-size: 1.5rem;
+      line-height: 2.5rem;
+      letter-spacing: 1.5px
+  }
+  a{
+      color:#000080!important;      
+  }
+  a:hover{
+    color:#555!important;      
+}
+  .text-white{
+      color: #fff;
+  }
+  .text-dark {
+    color: #000 !important;
+  }
+  .tn {
+    background-color: #ff9933;
+    /* padding: 10px; */
+}
+  .btn1 {
+    display: inline-block;
+    margin: 6px 0px 3px 0px;
+    padding: 3px 5px;
+    background: transparent;
+    color: #fff!important;
+    font-size: 16px;
+    text-decoration: underline;
+}
+.faph {
+    padding-right: 5px;
+    font-size: x-large;
+}
+.fa-size {
+    font-size: 2em;
+}
+.fa-facebook {
+    color: #fff;
+}
+.fa-youtube {
+    color: #fff;
+}
+  /* news slider */
+  #myCarousel .carousel-caption {
+    left:0;
+	right:0;
+	bottom:0;
+	text-align:left;
+	padding:10px;
+	background:rgba(0,0,0,0.6);
+	text-shadow:none;
+}
+
+#myCarousel .list-group {
+	position:absolute;
+	top:0;
+    right:0;
+    padding: 2rem 1rem;
+    list-style: none
+
+}
+#myCarousel .list-group-item {
+	border-radius:0px;
+    cursor:pointer;
+    padding: 1rem 0.5rem;
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000
+
+}
+#myCarousel .list-group .active {
+	background-color:#eee;	
+}
+
+@media (min-width: 992px) { 
+	#myCarousel {padding-right:33.3333%;}
+	#myCarousel .carousel-controls {display:none;} 	
+}
+@media (max-width: 991px) { 
+	.carousel-caption p,
+	#myCarousel .list-group {display:none;} 
+}
+/* news slier */
+
+
+ .parallax{
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+ }
+
+#banner{
+    /* background-image: url(/images/Artist-Page.jpg); */
+
+}
+.overlay {
+    position: relative;
+    background: #0a0a0a4d;
+    width: 100%;
+    padding: 4rem 0rem
+   
+  }
+  .ptl{
+      padding: 3rem 0rem 0rem 45rem
+  }
+.ptb-30{
+    padding: 30rem 0rem 30rem 0rem
+}
+.ptb-5 {
+    padding: 6rem 0rem 6rem 0rem;
+  }
+.mb-5 {
+    margin-bottom: 5rem;
+  }
+.mt-5{
+    margin-top: 5rem
+} 
+
+ 
+/* sidenav */
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(231, 231, 231);
+    border-right: 2px solid black;
+    overflow-x: hidden;
+    padding-top: 130px;
+  }
+  
+  .sidenav>a,h4 {
+    padding: 6px 8px 6px 16px;
+    color: #242222;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: #8f1414;
+  }
+  
+  .main {
+    margin-left: 160px; /* Same as the width of the sidenav */
+    /* font-size: 28px; Increased text to enable scrolling */
+    /* padding: 0px 10px; */
+  }
+  
+  /* @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  } */
+
+
+
+.ptb-3{
+    padding: 3rem 0rem; 
+  }
+
+.p-0{
+    padding: 0rem
+}
+
+.submit{
+    width: 100%;
+    background: #e7e7e7
+}
+.btn:hover{
+    background: #000;
+    color: #fff
+}
+
+
+/* footer */
+#myFooter{
+    background-color:#138808;
+    color:#000;
+    padding-top:3rem!important
+}
+#myFooter .row{
+    margin-bottom:40px
+}
+
+#myFooter h5{
+    font-size:2rem;
+    text-transform: uppercase;
+    margin-bottom: 15px
+    /* font-weight:600 */
+}
+
+#myFooter ul{
+    padding-left:0;
+    margin-bottom: 2.5rem
+}
+#myFooter li {
+    list-style: none;
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height:2em!important;
+    letter-spacing:1.5px
+}
+#myFooter li i{
+    position: absolute;
+    top: 6px;
+    left: 0;
+}
+.fa{
+    font-size: 2rem
+}
+.fa-facebook:hover{
+    color:#3b5998
+}
+.fa-youtube:hover{
+    color:#cc181e
+}
+.fa-twitter:hover{
+    color:#0084b4
+}
+.fa-linkedin-in:hover{
+    color:#0077b5 
+}
+.fa-instagram:hover{
+    color:#fb3958
+}
+#myFooter a{
+    color:#311b4f;
+    font-weight: bold; 
+    text-decoration:underline
+}
+.social a{
+    color: #fff!important
+}
+
+.social li{
+    display: inline-flex;
+    margin: 0rem 1rem 0rem 0rem
+    
+}
+.social li i{
+    top: 0!important;
+}
+.fab{
+    font-size: 3rem
+}
+
+@media only screen and (max-width:320px){
+    .social{
+        margin-left: 6.5rem!important
+    }
+}
+@media only screen and (min-width:320px){
+    .social{
+        margin-left: 9rem
+    } 
+}
+@media only screen and (max-width:425px) and (min-width:376px){
+    .social{
+        margin-left: 11.5rem
+    } 
+}
+@media only screen and (min-width:768px){
+    .social{
+        margin-left: 0rem
+    } 
+}
+
+label{
+    margin-bottom: 1rem!important;
+    font-size: 1.5rem;
+}
+#myFooter a:hover,#myFooter a:focus{
+    text-decoration:none;
+    color:white!important
+}
+#myFooter .second-bar{
+    text-align:center;
+    background-color:#101011;
+    color:#fff
+}
+#myFooter .second-bar h4{
+    line-height: 3rem
+}
+#myFooter .second-bar a{
+    font-size:21px;
+    color:#fba017;
+    transition:.2s;
+    line-height:68px;
+    text-decoration: none
+}
+@media only screen and (max-width:600px){
+    #myFooter li {
+        padding-left: 0px;
+    }
+
+    #myFooter li, h5{
+        text-align:center
+    }
+   
+    #myFooter li i{
+        display: contents; 
+    }
+    
+}
+
+/* back to top */
+
+#scroll {
+    position:fixed;
+    right:10px;
+    bottom:10px;
+    cursor:pointer;
+    width:50px;
+    height:50px;
+    background-color:#3498db;
+    text-indent:-9999px;
+    display:none;
+    -webkit-border-radius:60px;
+    -moz-border-radius:60px;
+    border-radius:60px
+}
+#scroll span {
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-left:-8px;
+    margin-top:-12px;
+    height:0;
+    width:0;
+    border:8px solid transparent;
+    border-bottom-color:#ffffff;
+}
+#scroll:hover {
+    background-color:#e74c3c;
+    opacity:1;filter:"alpha(opacity=100)";
+    -ms-filter:"alpha(opacity=100)";
+}

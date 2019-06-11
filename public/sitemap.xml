@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/s4/</loc>
+    <lastmod>2019-06-10T19:31:24+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/s3/</loc>
+    <lastmod>2019-06-10T19:31:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/s2/</loc>
+    <lastmod>2019-06-10T19:31:14+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/s1/</loc>
+    <lastmod>2019-06-10T16:39:44+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/3/</loc>
+    <lastmod>2019-06-03T09:38:14+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2/</loc>
+    <lastmod>2019-06-03T09:38:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/1/</loc>
+    <lastmod>2019-06-03T09:38:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/c/</loc>
+    <lastmod>2019-06-02T16:45:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dir1/c/</loc>
+    <lastmod>2019-05-26T23:32:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/b/</loc>
+    <lastmod>2019-05-26T14:08:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/a/</loc>
+    <lastmod>2019-05-12T16:41:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-06-10T19:31:24+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/dir1/</loc>
+    <lastmod>2019-05-26T23:32:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
