@@ -12,12 +12,13 @@
         <meta property="og:image" content="https://www.example.com/images/logo.png">
         <meta property="og:description" content="Site's description goes here">
         <meta property="og:keywords" content="Page's major keywords goes here, keyword1, kw2,..">
-        <title>Hugo-first-Home</title>
+        <title>Indian News</title>
         
         <link rel="stylesheet" href="/css/bootstrap.min.css">
         <link rel="stylesheet" href="/css/fontawesome.css">
         <link rel="stylesheet" href="/css/style.css">
-      
+        
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     
     </head>
 <body>
@@ -202,9 +203,10 @@
 </footer>
     
     
-</body>
+
 <script src="/js/jquery-3.3.1.min.js" type="text/javascript"></script>
 <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+
 <script>
     $(document).ready(function(){
     
@@ -236,4 +238,17 @@ $(window).load(function() {
 	$('#myCarousel .list-group-item').outerHeight(triggerheight);
 });
 </script>
+
+<script>
+	if (window.netlifyIdentity) {
+	  window.netlifyIdentity.on("init", user => {
+		if (!user) {
+		  window.netlifyIdentity.on("login", () => {
+			document.location.href = "/admin/";
+		  });
+		}
+	  });
+	}
+  </script>
+  </body>
 </html>
