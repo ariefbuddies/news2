@@ -89,8 +89,9 @@
                 <br>
                 <br>
                 <p>{{ .Summary }}</p>
+                <a href="{{.Permalink}}">Read More</a>
             </div>
-            <a href="{{.Permalink}}">Read More</a>
+            
         </div>
         {{end}} {{range where .Site.Pages "Type" "=" "first1"}}
         <h1 class="text-center">{{ .Title }}</h1>
@@ -103,8 +104,9 @@
                 <br>
                 <br>
                 <p>{{ .Summary }}</p>
+                <a href="{{.Permalink}}">Read More</a>
             </div>
-            <a href="{{.Permalink}}">Read More</a>
+            
         </div>
         {{end}} {{range where .Site.Pages "Type" "=" "first2"}}
         <h1 class="text-center">{{ .Title }}</h1>
@@ -117,8 +119,9 @@
                 <br>
                 <br>
                 <p>{{ .Summary }}</p>
+                <a href="{{.Permalink}}">Read More</a>
             </div>
-            <a href="{{.Permalink}}">Read More</a>
+            
         </div>
         {{end}}
     </div>
