@@ -6,10 +6,21 @@
     <description>Recent content on Indian News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2019 19:31:24 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2019 11:36:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.indiannews.live/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo static site generator- Web development jobs</title>
+      <link>https://www.indiannews.live/news/1/</link>
+      <pubDate>Sun, 16 Jun 2019 11:36:00 +0000</pubDate>
+      
+      <guid>https://www.indiannews.live/news/1/</guid>
+      <description>TenSketch offers new jobs in Web. contact,
+gohugo.io
+![]()</description>
+    </item>
     
     <item>
       <title>News Slider4</title>
@@ -64,16 +75,6 @@ Sit consequat commodo fugiat eiusmod excepteur anim culpa. Eu fugiat exercitatio
       
       <guid>https://www.indiannews.live/news/2/</guid>
       <description>#Model1
-Sit consequat commodo fugiat eiusmod excepteur anim culpa. Eu fugiat exercitation deserunt deserunt tempor eiusmod eu ipsum enim. Do mollit excepteur exercitation eu dolor occaecat dolor labore duis sit eu duis.</description>
-    </item>
-    
-    <item>
-      <title>IT jobs</title>
-      <link>https://www.indiannews.live/news/1/</link>
-      <pubDate>Mon, 03 Jun 2019 09:38:05 +0530</pubDate>
-      
-      <guid>https://www.indiannews.live/news/1/</guid>
-      <description>#Model
 Sit consequat commodo fugiat eiusmod excepteur anim culpa. Eu fugiat exercitation deserunt deserunt tempor eiusmod eu ipsum enim. Do mollit excepteur exercitation eu dolor occaecat dolor labore duis sit eu duis.</description>
     </item>
     

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.indiannews.live/news/1/</loc>
+    <lastmod>2019-06-16T11:36:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.indiannews.live/news/s4/</loc>
     <lastmod>2019-06-10T19:31:24+05:30</lastmod>
   </url>
@@ -33,11 +38,6 @@
   </url>
   
   <url>
-    <loc>https://www.indiannews.live/news/1/</loc>
-    <lastmod>2019-06-03T09:38:05+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.indiannews.live/news/c/</loc>
     <lastmod>2019-06-02T16:45:11+05:30</lastmod>
   </url>
@@ -65,7 +65,7 @@
   
   <url>
     <loc>https://www.indiannews.live/tags/employment/</loc>
-    <lastmod>2019-06-03T09:38:14+05:30</lastmod>
+    <lastmod>2019-06-16T11:36:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -100,20 +100,20 @@
   </url>
   
   <url>
-    <loc>https://www.indiannews.live/categories/hr/</loc>
-    <lastmod>2019-06-03T09:38:10+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.indiannews.live/tags/hr/</loc>
     <lastmod>2019-06-03T09:38:10+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://www.indiannews.live/categories/hr/</loc>
+    <lastmod>2019-06-03T09:38:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.indiannews.live/</loc>
-    <lastmod>2019-06-10T19:31:24+05:30</lastmod>
+    <lastmod>2019-06-16T11:36:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,25 +124,25 @@
   </url>
   
   <url>
-    <loc>https://www.indiannews.live/categories/it/</loc>
-    <lastmod>2019-06-03T09:38:05+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.indiannews.live/tags/it/</loc>
-    <lastmod>2019-06-03T09:38:05+05:30</lastmod>
+    <lastmod>2019-06-16T11:36:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.indiannews.live/categories/manufacturing/</loc>
-    <lastmod>2019-06-03T09:38:14+05:30</lastmod>
+    <loc>https://www.indiannews.live/categories/it/</loc>
+    <lastmod>2019-06-16T11:36:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.indiannews.live/tags/manufacturing/</loc>
+    <lastmod>2019-06-03T09:38:14+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.indiannews.live/categories/manufacturing/</loc>
     <lastmod>2019-06-03T09:38:14+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -155,7 +155,7 @@
   
   <url>
     <loc>https://www.indiannews.live/news/</loc>
-    <lastmod>2019-06-10T19:31:24+05:30</lastmod>
+    <lastmod>2019-06-16T11:36:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
