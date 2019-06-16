@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>International News on Hugo | Indian News</title>
-    <link>http://example.org/categories/international-news/</link>
-    <description>Recent content in International News on Hugo | Indian News</description>
+    <title>International News on Indian News</title>
+    <link>https://www.indiannews.live/categories/international-news/</link>
+    <description>Recent content in International News on Indian News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Jun 2019 19:31:19 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/international-news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indiannews.live/categories/international-news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>News Slider3</title>
-      <link>http://example.org/news/s3/</link>
+      <link>https://www.indiannews.live/news/s3/</link>
       <pubDate>Mon, 10 Jun 2019 19:31:19 +0530</pubDate>
       
-      <guid>http://example.org/news/s3/</guid>
+      <guid>https://www.indiannews.live/news/s3/</guid>
       <description>#News Slider3 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</description>
     </item>
     

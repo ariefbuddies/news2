@@ -3,188 +3,188 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/news/s4/</loc>
+    <loc>https://www.indiannews.live/news/s4/</loc>
     <lastmod>2019-06-10T19:31:24+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/news/s3/</loc>
+    <loc>https://www.indiannews.live/news/s3/</loc>
     <lastmod>2019-06-10T19:31:19+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/news/s2/</loc>
+    <loc>https://www.indiannews.live/news/s2/</loc>
     <lastmod>2019-06-10T19:31:14+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/news/s1/</loc>
+    <loc>https://www.indiannews.live/news/s1/</loc>
     <lastmod>2019-06-10T16:39:44+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/news/3/</loc>
+    <loc>https://www.indiannews.live/news/3/</loc>
     <lastmod>2019-06-03T09:38:14+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/news/2/</loc>
+    <loc>https://www.indiannews.live/news/2/</loc>
     <lastmod>2019-06-03T09:38:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/news/1/</loc>
+    <loc>https://www.indiannews.live/news/1/</loc>
     <lastmod>2019-06-03T09:38:05+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/news/c/</loc>
+    <loc>https://www.indiannews.live/news/c/</loc>
     <lastmod>2019-06-02T16:45:11+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/news/b/</loc>
+    <loc>https://www.indiannews.live/news/b/</loc>
     <lastmod>2019-05-26T14:08:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/news/a/</loc>
+    <loc>https://www.indiannews.live/news/a/</loc>
     <lastmod>2019-05-12T16:41:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/brief/</loc>
+    <loc>https://www.indiannews.live/tags/brief/</loc>
     <lastmod>2019-06-02T16:45:11+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://www.indiannews.live/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/employment/</loc>
+    <loc>https://www.indiannews.live/tags/employment/</loc>
     <lastmod>2019-06-03T09:38:14+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/entertainment/</loc>
+    <loc>https://www.indiannews.live/tags/entertainment/</loc>
     <lastmod>2019-06-10T19:31:14+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/happy-news/</loc>
+    <loc>https://www.indiannews.live/tags/happy-news/</loc>
     <lastmod>2019-05-12T16:41:32+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/health/</loc>
+    <loc>https://www.indiannews.live/tags/health/</loc>
     <lastmod>2019-06-10T19:31:24+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/highlights/</loc>
+    <loc>https://www.indiannews.live/tags/highlights/</loc>
     <lastmod>2019-06-10T19:31:24+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/hot-news/</loc>
+    <loc>https://www.indiannews.live/tags/hot-news/</loc>
     <lastmod>2019-05-26T14:08:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/hr/</loc>
+    <loc>https://www.indiannews.live/tags/hr/</loc>
     <lastmod>2019-06-03T09:38:10+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/hr/</loc>
+    <loc>https://www.indiannews.live/categories/hr/</loc>
     <lastmod>2019-06-03T09:38:10+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://www.indiannews.live/</loc>
     <lastmod>2019-06-10T19:31:24+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/international-news/</loc>
+    <loc>https://www.indiannews.live/categories/international-news/</loc>
     <lastmod>2019-06-10T19:31:19+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/it/</loc>
+    <loc>https://www.indiannews.live/tags/it/</loc>
     <lastmod>2019-06-03T09:38:05+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/it/</loc>
+    <loc>https://www.indiannews.live/categories/it/</loc>
     <lastmod>2019-06-03T09:38:05+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/manufacturing/</loc>
+    <loc>https://www.indiannews.live/tags/manufacturing/</loc>
     <lastmod>2019-06-03T09:38:14+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/manufacturing/</loc>
+    <loc>https://www.indiannews.live/categories/manufacturing/</loc>
     <lastmod>2019-06-03T09:38:14+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/national-news/</loc>
+    <loc>https://www.indiannews.live/categories/national-news/</loc>
     <lastmod>2019-06-10T19:31:14+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/news/</loc>
+    <loc>https://www.indiannews.live/news/</loc>
     <lastmod>2019-06-10T19:31:24+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/political/</loc>
+    <loc>https://www.indiannews.live/tags/political/</loc>
     <lastmod>2019-06-10T19:31:19+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/political-news/</loc>
+    <loc>https://www.indiannews.live/tags/political-news/</loc>
     <lastmod>2019-06-02T16:45:11+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/sports/</loc>
+    <loc>https://www.indiannews.live/tags/sports/</loc>
     <lastmod>2019-06-10T16:39:44+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://www.indiannews.live/tags/</loc>
     <lastmod>2019-06-02T16:45:11+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/tamil-nadu-news/</loc>
+    <loc>https://www.indiannews.live/categories/tamil-nadu-news/</loc>
     <lastmod>2019-06-10T19:31:24+05:30</lastmod>
     <priority>0</priority>
   </url>

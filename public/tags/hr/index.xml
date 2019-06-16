@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hr on Hugo | Indian News</title>
-    <link>http://example.org/tags/hr/</link>
-    <description>Recent content in Hr on Hugo | Indian News</description>
+    <title>Hr on Indian News</title>
+    <link>https://www.indiannews.live/tags/hr/</link>
+    <description>Recent content in Hr on Indian News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2019 09:38:10 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/hr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indiannews.live/tags/hr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HR jobs</title>
-      <link>http://example.org/news/2/</link>
+      <link>https://www.indiannews.live/news/2/</link>
       <pubDate>Mon, 03 Jun 2019 09:38:10 +0530</pubDate>
       
-      <guid>http://example.org/news/2/</guid>
+      <guid>https://www.indiannews.live/news/2/</guid>
       <description>#Model1
 Sit consequat commodo fugiat eiusmod excepteur anim culpa. Eu fugiat exercitation deserunt deserunt tempor eiusmod eu ipsum enim. Do mollit excepteur exercitation eu dolor occaecat dolor labore duis sit eu duis.</description>
     </item>

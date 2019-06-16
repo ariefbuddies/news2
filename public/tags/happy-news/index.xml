@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Happy News on Hugo | Indian News</title>
-    <link>http://example.org/tags/happy-news/</link>
-    <description>Recent content in Happy News on Hugo | Indian News</description>
+    <title>Happy News on Indian News</title>
+    <link>https://www.indiannews.live/tags/happy-news/</link>
+    <description>Recent content in Happy News on Indian News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 16:41:32 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/happy-news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indiannews.live/tags/happy-news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>happy News</title>
-      <link>http://example.org/news/a/</link>
+      <link>https://www.indiannews.live/news/a/</link>
       <pubDate>Sun, 12 May 2019 16:41:32 +0530</pubDate>
       
-      <guid>http://example.org/news/a/</guid>
+      <guid>https://www.indiannews.live/news/a/</guid>
       <description>#Hello sweet girl
 news content goes here. Live news. real news. Live news. real news. Live news. real news. Live news. real news.
 Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news.</description>

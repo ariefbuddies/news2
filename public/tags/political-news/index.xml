@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Political News on Hugo | Indian News</title>
-    <link>http://example.org/tags/political-news/</link>
-    <description>Recent content in Political News on Hugo | Indian News</description>
+    <title>Political News on Indian News</title>
+    <link>https://www.indiannews.live/tags/political-news/</link>
+    <description>Recent content in Political News on Indian News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Jun 2019 16:45:11 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/political-news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indiannews.live/tags/political-news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Political news</title>
-      <link>http://example.org/news/c/</link>
+      <link>https://www.indiannews.live/news/c/</link>
       <pubDate>Sun, 02 Jun 2019 16:45:11 +0530</pubDate>
       
-      <guid>http://example.org/news/c/</guid>
+      <guid>https://www.indiannews.live/news/c/</guid>
       <description>#hello Indian Politics
 Eiusmod aliquip incididunt duis excepteur esse tempor anim laborum est ullamco culpa qui eiusmod veniam. In commodo veniam proident veniam. Consequat sint excepteur labore ipsum ex tempor duis et. Amet excepteur proident incididunt esse eiusmod commodo exercitation duis reprehenderit ad anim reprehenderit consectetur duis.</description>
     </item>

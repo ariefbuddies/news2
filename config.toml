@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.indiannews.live/"
 languageCode = "en-us"
-title = "Hugo | Indian News"
+title = "Indian News"
 theme = "hugo-news-theme"

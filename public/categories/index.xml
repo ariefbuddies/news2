@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo | Indian News</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on Hugo | Indian News</description>
+    <title>Categories on Indian News</title>
+    <link>https://www.indiannews.live/categories/</link>
+    <description>Recent content in Categories on Indian News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indiannews.live/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hr</title>
-      <link>http://example.org/categories/hr/</link>
+      <link>https://www.indiannews.live/categories/hr/</link>
       <pubDate>Mon, 03 Jun 2019 09:38:10 +0530</pubDate>
       
-      <guid>http://example.org/categories/hr/</guid>
+      <guid>https://www.indiannews.live/categories/hr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>International News</title>
-      <link>http://example.org/categories/international-news/</link>
+      <link>https://www.indiannews.live/categories/international-news/</link>
       <pubDate>Mon, 10 Jun 2019 19:31:19 +0530</pubDate>
       
-      <guid>http://example.org/categories/international-news/</guid>
+      <guid>https://www.indiannews.live/categories/international-news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>It</title>
-      <link>http://example.org/categories/it/</link>
+      <link>https://www.indiannews.live/categories/it/</link>
       <pubDate>Mon, 03 Jun 2019 09:38:05 +0530</pubDate>
       
-      <guid>http://example.org/categories/it/</guid>
+      <guid>https://www.indiannews.live/categories/it/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manufacturing</title>
-      <link>http://example.org/categories/manufacturing/</link>
+      <link>https://www.indiannews.live/categories/manufacturing/</link>
       <pubDate>Mon, 03 Jun 2019 09:38:14 +0530</pubDate>
       
-      <guid>http://example.org/categories/manufacturing/</guid>
+      <guid>https://www.indiannews.live/categories/manufacturing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>National News</title>
-      <link>http://example.org/categories/national-news/</link>
+      <link>https://www.indiannews.live/categories/national-news/</link>
       <pubDate>Mon, 10 Jun 2019 19:31:14 +0530</pubDate>
       
-      <guid>http://example.org/categories/national-news/</guid>
+      <guid>https://www.indiannews.live/categories/national-news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tamil Nadu News</title>
-      <link>http://example.org/categories/tamil-nadu-news/</link>
+      <link>https://www.indiannews.live/categories/tamil-nadu-news/</link>
       <pubDate>Mon, 10 Jun 2019 19:31:24 +0530</pubDate>
       
-      <guid>http://example.org/categories/tamil-nadu-news/</guid>
+      <guid>https://www.indiannews.live/categories/tamil-nadu-news/</guid>
       <description></description>
     </item>
     
