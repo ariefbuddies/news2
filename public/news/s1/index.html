@@ -17,9 +17,7 @@
         <link rel="stylesheet" href="/css/bootstrap.min.css">
         <link rel="stylesheet" href="/css/fontawesome.css">
         <link rel="stylesheet" href="/css/style.css">
-        
-        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    
+            
     </head>
 <body>
         <a href="#" id="scroll" style="display: inline;"><span></span></a>
@@ -236,16 +234,5 @@ $(window).load(function() {
 });
 </script>
 
-<script>
-	if (window.netlifyIdentity) {
-	  window.netlifyIdentity.on("init", user => {
-		if (!user) {
-		  window.netlifyIdentity.on("login", () => {
-			document.location.href = "/admin/";
-		  });
-		}
-	  });
-	}
-  </script>
   </body>
 </html>
