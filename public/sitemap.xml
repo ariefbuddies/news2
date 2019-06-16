@@ -100,13 +100,13 @@
   </url>
   
   <url>
-    <loc>https://www.indiannews.live/tags/hr/</loc>
+    <loc>https://www.indiannews.live/categories/hr/</loc>
     <lastmod>2019-06-03T09:38:10+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.indiannews.live/categories/hr/</loc>
+    <loc>https://www.indiannews.live/tags/hr/</loc>
     <lastmod>2019-06-03T09:38:10+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -124,25 +124,25 @@
   </url>
   
   <url>
-    <loc>https://www.indiannews.live/tags/it/</loc>
-    <lastmod>2019-06-03T09:38:05+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.indiannews.live/categories/it/</loc>
     <lastmod>2019-06-03T09:38:05+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.indiannews.live/tags/manufacturing/</loc>
-    <lastmod>2019-06-03T09:38:14+05:30</lastmod>
+    <loc>https://www.indiannews.live/tags/it/</loc>
+    <lastmod>2019-06-03T09:38:05+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.indiannews.live/categories/manufacturing/</loc>
+    <lastmod>2019-06-03T09:38:14+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.indiannews.live/tags/manufacturing/</loc>
     <lastmod>2019-06-03T09:38:14+05:30</lastmod>
     <priority>0</priority>
   </url>
