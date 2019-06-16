@@ -1,3 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo | Indian News"
+theme = "hugo-news-theme"

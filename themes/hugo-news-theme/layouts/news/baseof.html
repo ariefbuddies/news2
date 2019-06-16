@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+{{ partial "head"}}
+<body>
+        <a href="#" id="scroll" style="display: inline;"><span></span></a>
+    
+
+    
+    
+            {{ partial "header"}}
+                     
+        {{block "news-slider".}}
+
+        {{end}}
+      
+        {{ block "main" . }}
+
+        {{end}}
+
+        {{ block "2nd" . }}
+
+        {{end}}
+    
+        {{ partial "footer"}}
+    
+    
+
+{{partial "scripts"}}
+  </body>
+</html>

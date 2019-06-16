@@ -1,0 +1,93 @@
+{{define "news-slider"}}
+<section id="news-slider" class="ptb-3">
+    <div class="container">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+                {{range $index, $val := .Site.Taxonomies.tags.highlights }}
+                {{if (eq $index 0)}}
+                <div class="item active">
+                {{ else }}
+                <div class="item">
+                {{ end }}
+                
+                    <img src="{{.Page.Params.Image}}">
+                    <div class="carousel-caption">
+                        <h4><a href="#">{{.Page.Title }}</a></h4>
+                        <p>{{ .Page.Content }}</p>
+                        <small>Published by {{ .Page.Params.Author }} on {{ .Page.Params.Date }}</small>
+                    </div>
+                </div>
+                {{end}}
+        
+            </div>
+            <!-- End Carousel Inner -->
+            <ul class="list-group col-sm-4">
+                {{ range $index, $val := .Site.Taxonomies.tags.highlights}}
+                <li data-target="#myCarousel" data-slide-to="{{$index}}" class="list-group-item">
+                        <h4> {{$val.Page.Title}} </h4></li>
+                {{end}}
+                
+                
+            </ul>
+            <!-- Controls -->
+            <div class="carousel-controls">
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+        </div>
+        <!-- End Carousel -->
+    </div>
+</section>
+{{end}}
+
+{{ define "main"}}
+<section id="major-news" class="ptb-3">
+    <div class="container">
+        {{range $index, $val := .Site.Taxonomies.tags.brief }}
+        <h1 class="text-center">{{$val.Page.Title}}</h1>
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                <img class="img-responsive" src="{{.Page.Params.Image}}" alt="Indian news pics">
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                <small>Published by {{ .Page.Params.Author }} on {{ .Page.Params.Date }}</small>
+                <br>
+                <br>
+                <p>{{ $val.Page.Summary }}</p>
+                <a href="{{$val.Page.Permalink}}">Read More</a>
+            </div>           
+        </div>
+        {{end}} 
+    </div>
+</section>
+{{ end }}
+
+{{ define "2nd" }}
+<section id="2nd" class="ptb-3">
+<div class="container">
+    <h1 class="text-center">Employment News</h1>
+    <div class="row">
+            {{range $index, $val := .Site.Taxonomies.categories}}
+           
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                
+            <div class="card">
+                {{range $val.Pages}}
+                    <h3 class="text-center">{{ .Title }}</h3>
+                    <p> {{.Summary}} </p>
+
+                {{end}}
+            </div>
+            
+        </div>
+        
+        {{end}}
+    </div>
+</div>
+</section>
+{{ end }}

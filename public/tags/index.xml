@@ -6,9 +6,127 @@
     <description>Recent content in Tags on Hugo | Indian News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2019 16:45:11 +0530</lastBuildDate>
     
 	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Brief</title>
+      <link>http://example.org/tags/brief/</link>
+      <pubDate>Sun, 02 Jun 2019 16:45:11 +0530</pubDate>
+      
+      <guid>http://example.org/tags/brief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employment</title>
+      <link>http://example.org/tags/employment/</link>
+      <pubDate>Mon, 03 Jun 2019 09:38:14 +0530</pubDate>
+      
+      <guid>http://example.org/tags/employment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entertainment</title>
+      <link>http://example.org/tags/entertainment/</link>
+      <pubDate>Mon, 10 Jun 2019 19:31:14 +0530</pubDate>
+      
+      <guid>http://example.org/tags/entertainment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Happy News</title>
+      <link>http://example.org/tags/happy-news/</link>
+      <pubDate>Sun, 12 May 2019 16:41:32 +0530</pubDate>
+      
+      <guid>http://example.org/tags/happy-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>http://example.org/tags/health/</link>
+      <pubDate>Mon, 10 Jun 2019 19:31:24 +0530</pubDate>
+      
+      <guid>http://example.org/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highlights</title>
+      <link>http://example.org/tags/highlights/</link>
+      <pubDate>Mon, 10 Jun 2019 19:31:24 +0530</pubDate>
+      
+      <guid>http://example.org/tags/highlights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hot News</title>
+      <link>http://example.org/tags/hot-news/</link>
+      <pubDate>Sun, 26 May 2019 14:08:22 +0530</pubDate>
+      
+      <guid>http://example.org/tags/hot-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hr</title>
+      <link>http://example.org/tags/hr/</link>
+      <pubDate>Mon, 03 Jun 2019 09:38:10 +0530</pubDate>
+      
+      <guid>http://example.org/tags/hr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It</title>
+      <link>http://example.org/tags/it/</link>
+      <pubDate>Mon, 03 Jun 2019 09:38:05 +0530</pubDate>
+      
+      <guid>http://example.org/tags/it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manufacturing</title>
+      <link>http://example.org/tags/manufacturing/</link>
+      <pubDate>Mon, 03 Jun 2019 09:38:14 +0530</pubDate>
+      
+      <guid>http://example.org/tags/manufacturing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political</title>
+      <link>http://example.org/tags/political/</link>
+      <pubDate>Mon, 10 Jun 2019 19:31:19 +0530</pubDate>
+      
+      <guid>http://example.org/tags/political/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political News</title>
+      <link>http://example.org/tags/political-news/</link>
+      <pubDate>Sun, 02 Jun 2019 16:45:11 +0530</pubDate>
+      
+      <guid>http://example.org/tags/political-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>http://example.org/tags/sports/</link>
+      <pubDate>Mon, 10 Jun 2019 16:39:44 +0530</pubDate>
+      
+      <guid>http://example.org/tags/sports/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

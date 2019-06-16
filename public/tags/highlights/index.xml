@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Highlights on Hugo | Indian News</title>
+    <link>http://example.org/tags/highlights/</link>
+    <description>Recent content in Highlights on Hugo | Indian News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jun 2019 19:31:24 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/highlights/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News Slider4</title>
+      <link>http://example.org/news/s4/</link>
+      <pubDate>Mon, 10 Jun 2019 19:31:24 +0530</pubDate>
+      
+      <guid>http://example.org/news/s4/</guid>
+      <description>#News Slider4 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</description>
+    </item>
+    
+    <item>
+      <title>News Slider3</title>
+      <link>http://example.org/news/s3/</link>
+      <pubDate>Mon, 10 Jun 2019 19:31:19 +0530</pubDate>
+      
+      <guid>http://example.org/news/s3/</guid>
+      <description>#News Slider3 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</description>
+    </item>
+    
+    <item>
+      <title>News Slider2</title>
+      <link>http://example.org/news/s2/</link>
+      <pubDate>Mon, 10 Jun 2019 19:31:14 +0530</pubDate>
+      
+      <guid>http://example.org/news/s2/</guid>
+      <description>#News Slider2 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</description>
+    </item>
+    
+    <item>
+      <title>News Slider1</title>
+      <link>http://example.org/news/s1/</link>
+      <pubDate>Mon, 10 Jun 2019 16:39:44 +0530</pubDate>
+      
+      <guid>http://example.org/news/s1/</guid>
+      <description>#News Slider1 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</description>
+    </item>
+    
+  </channel>
+</rss>

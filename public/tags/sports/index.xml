@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sports on Hugo | Indian News</title>
+    <link>http://example.org/tags/sports/</link>
+    <description>Recent content in Sports on Hugo | Indian News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jun 2019 16:39:44 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/sports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News Slider1</title>
+      <link>http://example.org/news/s1/</link>
+      <pubDate>Mon, 10 Jun 2019 16:39:44 +0530</pubDate>
+      
+      <guid>http://example.org/news/s1/</guid>
+      <description>#News Slider1 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,5 +10,59 @@
 	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Hr</title>
+      <link>http://example.org/categories/hr/</link>
+      <pubDate>Mon, 03 Jun 2019 09:38:10 +0530</pubDate>
+      
+      <guid>http://example.org/categories/hr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International News</title>
+      <link>http://example.org/categories/international-news/</link>
+      <pubDate>Mon, 10 Jun 2019 19:31:19 +0530</pubDate>
+      
+      <guid>http://example.org/categories/international-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It</title>
+      <link>http://example.org/categories/it/</link>
+      <pubDate>Mon, 03 Jun 2019 09:38:05 +0530</pubDate>
+      
+      <guid>http://example.org/categories/it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manufacturing</title>
+      <link>http://example.org/categories/manufacturing/</link>
+      <pubDate>Mon, 03 Jun 2019 09:38:14 +0530</pubDate>
+      
+      <guid>http://example.org/categories/manufacturing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National News</title>
+      <link>http://example.org/categories/national-news/</link>
+      <pubDate>Mon, 10 Jun 2019 19:31:14 +0530</pubDate>
+      
+      <guid>http://example.org/categories/national-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tamil Nadu News</title>
+      <link>http://example.org/categories/tamil-nadu-news/</link>
+      <pubDate>Mon, 10 Jun 2019 19:31:24 +0530</pubDate>
+      
+      <guid>http://example.org/categories/tamil-nadu-news/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
