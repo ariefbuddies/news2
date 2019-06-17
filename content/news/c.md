@@ -7,7 +7,7 @@ author: 'By Bharani Vaitheesvaran, ET Bureau'
 image: /images/uploads/palaniswami.webp
 draft: false
 categories:
-  - TN Politics
+  - ''
 tags:
   - brief
   - political news
