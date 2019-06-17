@@ -20,7 +20,8 @@
             
     </head>
 <body>
-        
+  <body data-spy="scroll" data-target=".navbar">
+  
       <nav class="navbar-fixed-top tn">
           <div class="container">
             <div class="row">
@@ -69,7 +70,7 @@
           <li class="active dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tamil Nadu <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="#">Environment</a></li>
+                <li><a href="#2nd">Environment</a></li>
                 <li><a href="#">Agriculture</a></li>
                 <li role="separator" class="divider"></li>
                 <li><a href="#">Health</a></li>
@@ -95,11 +96,14 @@
   
   
   
+<div class="container">
     <p>#News Slider4
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p>
 
-    
+</div>
 
+  
+  
   
   
   <footer id="myFooter" class="pt-3">
@@ -187,6 +191,32 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 </footer>
   <script src="/js/jquery-3.3.1.min.js" type="text/javascript"></script>
 <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+<script>
+$(document).ready(function(){
+  
+  $("a").on('click', function(event) {
+
+    
+    if (this.hash !== "") {
+      
+      event.preventDefault();
+
+      
+      var hash = this.hash;
+
+      
+      
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        
+        window.location.hash = hash;
+      });
+    } 
+  });
+});
+</script>
 
 <script>
     $(document).ready(function(){

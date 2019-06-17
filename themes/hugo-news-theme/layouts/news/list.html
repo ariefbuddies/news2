@@ -7,44 +7,40 @@
                 {{range $index, $val := .Site.Taxonomies.tags.highlights }}
                 {{if (eq $index 0)}}
                 <div class="item active">
-                {{ else }}
-                <div class="item">
-                {{ end }}
-                
-                    <img src="{{.Page.Params.Image}}">
-                    <div class="carousel-caption">
-                        <h4><a href="#">{{.Page.Title }}</a></h4>
-                        <p>{{ .Page.Content }}</p>
-                        <small>Published by {{ .Page.Params.Author }} on {{ .Page.Params.Date }}</small>
+                    {{ else }}
+                    <div class="item">
+                        {{ end }}
+                        <img src="{{.Page.Params.Image}}">
+                        <div class="carousel-caption">
+                            <h4><a href="#">{{.Page.Title }}</a></h4>
+                            <p>{{ .Page.Content }}</p>
+                            <small>Published by {{ .Page.Params.Author }} on {{ .Page.Params.Date }}</small>
+                        </div>
                     </div>
+                    {{end}}
                 </div>
-                {{end}}
-        
+                <!-- End Carousel Inner -->
+                <ul class="list-group col-sm-4">
+                    {{ range $index, $val := .Site.Taxonomies.tags.highlights}}
+                    <li data-target="#myCarousel" data-slide-to="{{$index}}" class="list-group-item">
+                        <h4> {{$val.Page.Title}} </h4>
+                    </li>
+                    {{end}}
+                </ul>
+                <!-- Controls -->
+                <div class="carousel-controls">
+                    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                    </a>
+                </div>
             </div>
-            <!-- End Carousel Inner -->
-            <ul class="list-group col-sm-4">
-                {{ range $index, $val := .Site.Taxonomies.tags.highlights}}
-                <li data-target="#myCarousel" data-slide-to="{{$index}}" class="list-group-item">
-                        <h4> {{$val.Page.Title}} </h4></li>
-                {{end}}
-                
-                
-            </ul>
-            <!-- Controls -->
-            <div class="carousel-controls">
-                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                    <span class="glyphicon glyphicon-chevron-left"></span>
-                </a>
-                <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                    <span class="glyphicon glyphicon-chevron-right"></span>
-                </a>
-            </div>
+            <!-- End Carousel -->
         </div>
-        <!-- End Carousel -->
-    </div>
 </section>
 {{end}}
-
 {{ define "main"}}
 <section id="major-news" class="ptb-3">
     <div class="container">
@@ -60,34 +56,100 @@
                 <br>
                 <p>{{ $val.Page.Summary }}</p>
                 <a href="{{$val.Page.Permalink}}">Read More</a>
-            </div>           
-        </div>
-        {{end}} 
-    </div>
-</section>
-{{ end }}
-
-{{ define "2nd" }}
-<section id="2nd" class="ptb-3">
-<div class="container">
-    <h1 class="text-center">Employment News</h1>
-    <div class="row">
-            {{range $index, $val := .Site.Taxonomies.categories}}
-           
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                
-            <div class="card">
-                {{range $val.Pages}}
-                    <h3 class="text-center">{{ .Title }}</h3>
-                    <p> {{.Summary}} </p>
-
-                {{end}}
             </div>
-            
         </div>
-        
         {{end}}
     </div>
-</div>
 </section>
 {{ end }}
+{{ define "2nd" }}
+<section id="2nd" class="ptb-3">
+    <div class="container">
+        <h1 class="text-center">Employment News</h1>
+        <div class="row">
+            {{range $index, $val := .Site.Taxonomies.categories}}
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                <div class="card">
+                    {{range $val.Pages}}
+                    <h3 class="text-center">{{ .Title }}</h3>
+                    <p> {{.Summary}} </p>
+                    {{end}}
+                </div>
+            </div>
+            {{end}}
+        </div>
+    </div>
+</section>
+{{ end }}
+{{define "grid-news"}}
+<div class="articles-wrapper">
+    <div class="preloader top"></div>
+    <div class="left-section articles">
+        <div class="article ">
+            <div class="wrap">
+                <div class="source">
+                    <div class="author">
+                        <p class="author-name">By Connatix</p>
+                        <p class="author-date">Mar 30, 2017</p>
+                    </div>
+                </div>
+                <div class="top">
+                    <div class="vignette"></div>
+                    <h5>Connatix Launches Platform Focused On Brand Safety</h5>
+                </div>
+                <div class="bottom">
+                    <div class="description">By Philip Rosenstein
+                        Connatix, a native advertising platform for premium publishers, launched the platform Connatix
+                        Programmatic Syndication on Thursday. With a focus on video, the new platform aims to ensure
+                        that customer advertisements run in a safe and appropriate environment.
+                        The first launch partners include Meredith, Time Inc and Condé Nast.
+                        “With all the controversy around Google and YouTube</div>
+                </div>
+                <div class="hover-area">
+                    <div class="flare"></div>
+                    <div class="sharer">
+                        <a href="http://twitter.com/share?url=/?p=1323" target="_blank" class="twitter"></a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=/?p=1323" target="_blank"
+                            class="facebook"></a>
+                        <a href="mailto:?body=/?p=1323" class="mail"></a>
+                    </div>
+                    <a class="apply" href="/?p=1323">Full Article</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="right-section articles">
+        <div class="article">
+            <div class="wrap">
+                <div class="source">
+                    <div class="author">
+                        <p class="author-name">By Connatix</p>
+                        <p class="author-date">Apr 03, 2017</p>
+                    </div>
+                </div>
+                <div class="top">
+                    <div class="vignette"></div>
+                    <h5>Connatix Launches Programmatic Syndication Platform</h5>
+                </div>
+                <div class="bottom">
+                    <div class="description">Connatix, the fastest growing native advertising platform for premium
+                        publishers, today announced the launch of its new platform, Connatix Programmatic Syndication,
+                        the first offering on the market to provide an end-to-end audience extension product for
+                        publishers. The solution gives publishers the ability to scale their programmatic video
+                        monetization by distributing content and programmatic demand</div>
+                </div>
+                <div class="hover-area">
+                    <div class="flare"></div>
+                    <div class="sharer">
+                        <a href="http://twitter.com/share?url=/?p=1325" target="_blank" class="twitter"></a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=/?p=1325" target="_blank"
+                            class="facebook"></a>
+                        <a href="mailto:?body=/?p=1325" class="mail"></a>
+                    </div>
+                    <a class="apply" href="/?p=1325">Full Article</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{end}}

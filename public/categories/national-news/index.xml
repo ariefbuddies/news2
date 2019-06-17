@@ -6,37 +6,18 @@
     <description>Recent content in National News on Indian News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2019 19:31:14 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2019 14:01:14 +0000</lastBuildDate>
     
 	<atom:link href="https://www.indiannews.live/categories/national-news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>News Slider2</title>
+      <title>2nd day slide</title>
       <link>https://www.indiannews.live/news/s2/</link>
-      <pubDate>Mon, 10 Jun 2019 19:31:14 +0530</pubDate>
+      <pubDate>Mon, 10 Jun 2019 14:01:14 +0000</pubDate>
       
       <guid>https://www.indiannews.live/news/s2/</guid>
       <description>#News Slider2 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</description>
-    </item>
-    
-    <item>
-      <title>News Slider1</title>
-      <link>https://www.indiannews.live/news/s1/</link>
-      <pubDate>Mon, 10 Jun 2019 16:39:44 +0530</pubDate>
-      
-      <guid>https://www.indiannews.live/news/s1/</guid>
-      <description>#News Slider1 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</description>
-    </item>
-    
-    <item>
-      <title>Political news</title>
-      <link>https://www.indiannews.live/news/c/</link>
-      <pubDate>Sun, 02 Jun 2019 16:45:11 +0530</pubDate>
-      
-      <guid>https://www.indiannews.live/news/c/</guid>
-      <description>#hello Indian Politics
-Eiusmod aliquip incididunt duis excepteur esse tempor anim laborum est ullamco culpa qui eiusmod veniam. In commodo veniam proident veniam. Consequat sint excepteur labore ipsum ex tempor duis et. Amet excepteur proident incididunt esse eiusmod commodo exercitation duis reprehenderit ad anim reprehenderit consectetur duis.</description>
     </item>
     
   </channel>

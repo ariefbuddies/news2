@@ -6,10 +6,19 @@
     <description>Recent content in Highlights on Indian News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2019 19:31:24 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2019 03:06:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.indiannews.live/tags/highlights/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TenSketch created its first Hugo-Netlify site</title>
+      <link>https://www.indiannews.live/news/s1/</link>
+      <pubDate>Mon, 17 Jun 2019 03:06:00 +0000</pubDate>
+      
+      <guid>https://www.indiannews.live/news/s1/</guid>
+      <description>Thanks Kishan, https://github.com/kishaningithub, for helping TenSketch in creating it&amp;rsquo;s first Hugo and Netlify site. It was a pleasure working.</description>
+    </item>
     
     <item>
       <title>News Slider4</title>
@@ -30,21 +39,12 @@
     </item>
     
     <item>
-      <title>News Slider2</title>
+      <title>2nd day slide</title>
       <link>https://www.indiannews.live/news/s2/</link>
-      <pubDate>Mon, 10 Jun 2019 19:31:14 +0530</pubDate>
+      <pubDate>Mon, 10 Jun 2019 14:01:14 +0000</pubDate>
       
       <guid>https://www.indiannews.live/news/s2/</guid>
       <description>#News Slider2 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</description>
-    </item>
-    
-    <item>
-      <title>News Slider1</title>
-      <link>https://www.indiannews.live/news/s1/</link>
-      <pubDate>Mon, 10 Jun 2019 16:39:44 +0530</pubDate>
-      
-      <guid>https://www.indiannews.live/news/s1/</guid>
-      <description>#News Slider1 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</description>
     </item>
     
   </channel>
